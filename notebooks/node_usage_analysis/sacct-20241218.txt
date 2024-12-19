@@ -1,0 +1,221 @@
+JobID|JobName|Partition|State|AllocTRES|ElapsedRaw|
+14775436|check_cores|normal|COMPLETED|cpu=2,mem=14200M,node=1|2|
+14775436.batch|batch||COMPLETED|cpu=2,mem=14200M,node=1|2|
+14775436.extern|extern||COMPLETED|cpu=2,mem=14200M,node=1|2|
+14858548|hr5-016-01|normal|COMPLETED|cpu=32,mem=227200M,node=1|4|
+14858548.batch|batch||COMPLETED|cpu=32,mem=227200M,node=1|4|
+14858548.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|4|
+14858548.0|ramses3d||COMPLETED|cpu=16,mem=113600M,node=1|4|
+14858549|hr5-016-01|normal|CANCELLED by 43801||0|
+14858550|cpl-016-01|normal|COMPLETED|cpu=32,mem=227200M,node=1|4|
+14858550.batch|batch||COMPLETED|cpu=32,mem=227200M,node=1|4|
+14858550.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|4|
+14858550.0|ramses3d||COMPLETED|cpu=16,mem=113600M,node=1|4|
+14858551|hr5-016-02|normal|COMPLETED|cpu=32,mem=227200M,node=1|2|
+14858551.batch|batch||COMPLETED|cpu=32,mem=227200M,node=1|2|
+14858551.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|2|
+14858551.0|ramses3d||COMPLETED|cpu=32,mem=227200M,node=1|2|
+14858553|hr5-032-01|normal|COMPLETED|cpu=64,mem=454400M,node=1|5|
+14858553.batch|batch||COMPLETED|cpu=64,mem=454400M,node=1|5|
+14858553.extern|extern||COMPLETED|cpu=64,mem=454400M,node=1|5|
+14858553.0|ramses3d||COMPLETED|cpu=32,mem=227200M,node=1|5|
+14858790|hr5-016-01|normal_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|2|
+14858790.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|2|
+14858790.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|2|
+14858790.0|ramses3d||COMPLETED|cpu=16,mem=257554M,node=1|2|
+14858791|hr5-016-02|normal_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|2|
+14858791.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|2|
+14858791.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|2|
+14858791.0|ramses3d||COMPLETED|cpu=32,mem=257554M,node=1|1|
+14858798|hr5-032-01|normal_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|3|
+14858798.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|3|
+14858798.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|3|
+14858798.0|ramses3d||COMPLETED|cpu=32,mem=257554M,node=1|3|
+14858800|hr5-032-02|normal_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|3|
+14858800.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|3|
+14858800.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|3|
+14858800.0|ramses3d||COMPLETED|cpu=64,mem=257554M,node=1|2|
+14858804|hr5-064-01|normal_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|6|
+14858804.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|6|
+14858804.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|6|
+14858804.0|ramses3d||COMPLETED|cpu=64,mem=257554M,node=1|6|
+14860423|hr5-016-01|normal|FAILED|cpu=32,mem=227200M,node=1|25|
+14860423.batch|batch||FAILED|cpu=32,mem=227200M,node=1|25|
+14860423.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|25|
+14860423.0|ramses3d||FAILED|cpu=16,mem=113600M,node=1|24|
+14860424|hr5-016-02|normal|FAILED|cpu=32,mem=227200M,node=1|5|
+14860424.batch|batch||FAILED|cpu=32,mem=227200M,node=1|5|
+14860424.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|5|
+14860424.0|ramses3d||FAILED|cpu=32,mem=227200M,node=1|4|
+14860429|hr5-016-01|normal|TIMEOUT|cpu=32,mem=227200M,node=1|30024|
+14860429.batch|batch||CANCELLED|cpu=32,mem=227200M,node=1|30025|
+14860429.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|30024|
+14860429.0|ramses3d||FAILED|cpu=16,mem=113600M,node=1|30029|
+14860430|hr5-016-02|normal|TIMEOUT|cpu=32,mem=227200M,node=1|30024|
+14860430.batch|batch||CANCELLED|cpu=32,mem=227200M,node=1|30025|
+14860430.extern|extern||COMPLETED|cpu=32,mem=227200M,node=1|30024|
+14860430.0|ramses3d||FAILED|cpu=32,mem=227200M,node=1|30033|
+14860432|hr5-032-01|normal|TIMEOUT|cpu=64,mem=454400M,node=1|30024|
+14860432.batch|batch||CANCELLED|cpu=64,mem=454400M,node=1|30025|
+14860432.extern|extern||COMPLETED|cpu=64,mem=454400M,node=1|30024|
+14860432.0|ramses3d||FAILED|cpu=32,mem=227200M,node=1|30029|
+14889185|hr5-016-01|olaf_c_core|CANCELLED by 43801||0|
+14889186|hr5-016-02|olaf_c_core|CANCELLED by 43801||0|
+14889187|hr5-032-01|olaf_c_core|CANCELLED by 43801||0|
+14889190|hr5-016-01|long_cpu|CANCELLED by 43801|billing=100,cpu=144,mem=257554M,node=1|338783|
+14889190.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|338784|
+14889190.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|338783|
+14889190.0|ramses3d||FAILED|cpu=16,mem=257554M,node=1|338788|
+14889191|hr5-016-02|long_cpu|CANCELLED by 43801|billing=100,cpu=144,mem=257554M,node=1|256751|
+14889191.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|256752|
+14889191.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|256751|
+14889191.0|ramses3d||FAILED|cpu=32,mem=257554M,node=1|256756|
+14889192|hr5-032-01|long_cpu|CANCELLED by 43801|billing=100,cpu=144,mem=257554M,node=1|256752|
+14889192.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|256753|
+14889192.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|256752|
+14889192.0|ramses3d||FAILED|cpu=32,mem=257554M,node=1|256757|
+14889204|cpl-016-01|long_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|2|
+14889204.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|2|
+14889204.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|2|
+14889204.0|ramses3d-cpl||COMPLETED|cpu=16,mem=257554M,node=1|2|
+14893278|cpl-016-01|long_cpu|FAILED|billing=100,cpu=144,mem=257554M,node=1|27|
+14893278.batch|batch||FAILED|cpu=144,mem=257554M,node=1|27|
+14893278.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|27|
+14893278.0|ramses3d-cpl||FAILED|cpu=16,mem=257554M,node=1|27|
+14903318|comp-016-01|long_cpu|CANCELLED by 43801||0|
+14903319|comp-016-01|long_cpu|CANCELLED by 43801||0|
+14903362|comp-032-01|large_cpu|CANCELLED by 43801||0|
+14903363|comp-032-01|long_cpu|CANCELLED by 43801||0|
+14903364|comp-032-01|normal|CANCELLED by 43801|cpu=64,mem=454400M,node=1|6593|
+14903364.batch|batch||CANCELLED|cpu=64,mem=454400M,node=1|6594|
+14903364.extern|extern||COMPLETED|cpu=64,mem=454400M,node=1|6593|
+14903364.0|ramses3d||FAILED|cpu=32,mem=227200M,node=1|6597|
+14903431|omp-032-01|normal|CANCELLED by 43801|cpu=64,mem=454400M,node=1|62674|
+14903431.batch|batch||CANCELLED|cpu=64,mem=454400M,node=1|62675|
+14903431.extern|extern||COMPLETED|cpu=64,mem=454400M,node=1|62674|
+14903431.0|ramses3d||FAILED|cpu=32,mem=227200M,node=1|62678|
+14903817|LCDM|large_cpu|CANCELLED by 43801||0|
+14904336|LCDM09|large_cpu|FAILED|billing=3024,cpu=4320,mem=7726620M,node=30|5|
+14904336.batch|batch||FAILED|cpu=144,mem=257554M,node=1|5|
+14904336.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|5|
+14904336.0|ramses-lmin09-3d||FAILED|cpu=1800,mem=7726620M,node=30|2|
+14904337|LCDM09|large_cpu|COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|4|
+14904337.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|4|
+14904337.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|4|
+14904337.0|ramses-lmin09-3d||COMPLETED|cpu=1800,mem=7726620M,node=30|3|
+14904338|LCDM09|large_cpu|COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|8|
+14904338.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|8|
+14904338.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|8|
+14904338.0|ramses-lmin09-3d||COMPLETED|cpu=1800,mem=7726620M,node=30|8|
+14904339|cpl-016-01|long_cpu|TIMEOUT|billing=100,cpu=144,mem=257554M,node=1|627|
+14904339.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|628|
+14904339.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|627|
+14904339.0|ramses3d-cpl||CANCELLED|cpu=16,mem=257554M,node=1|637|
+14904340|cpl-016-01|long_cpu|TIMEOUT|billing=100,cpu=144,mem=257554M,node=1|622|
+14904340.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|623|
+14904340.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|622|
+14904340.0|ramses-lmin09-3d||CANCELLED|cpu=16,mem=257554M,node=1|629|
+14904341|cpl-016-01|long_cpu|COMPLETED|billing=100,cpu=144,mem=257554M,node=1|20|
+14904341.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|20|
+14904341.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|20|
+14904341.0|ramses-lmin09-3d||COMPLETED|cpu=16,mem=257554M,node=1|3|
+14904342|cpl-016-01|long_cpu|FAILED|billing=100,cpu=144,mem=257554M,node=1|128|
+14904342.batch|batch||FAILED|cpu=144,mem=257554M,node=1|128|
+14904342.extern|extern||COMPLETED|billing=100,cpu=144,mem=257554M,node=1|128|
+14904342.0|ramses-lmin09-3d||FAILED|cpu=16,mem=257554M,node=1|113|
+14904343|LCDM09|large_cpu|COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|18|
+14904343.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|18|
+14904343.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|18|
+14904343.0|ramses-lmin09-3d||COMPLETED|cpu=1800,mem=7726620M,node=30|3|
+14904344|LCDM09|large_cpu|COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|18|
+14904344.batch|batch||COMPLETED|cpu=144,mem=257554M,node=1|18|
+14904344.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|18|
+14904344.0|ramses-lmin09-3d||COMPLETED|cpu=1800,mem=7726620M,node=30|3|
+14904345|LCDM09|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|105|
+14904345.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|106|
+14904345.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|105|
+14904345.0|ramses-lmin09-3d||FAILED|cpu=1800,mem=7726620M,node=30|95|
+14904346|LCDM09|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|2245|
+14904346.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|2246|
+14904346.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|2245|
+14904346.0|ramses-lmin09-3d||FAILED|cpu=1800,mem=7726620M,node=30|2280|
+14904358|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|61407|
+14904358.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|61408|
+14904358.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|61407|
+14904358.0|ramses3d||FAILED|cpu=600,mem=7726620M,node=30|61412|
+14907043|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|34|
+14907043.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|35|
+14907043.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|34|
+14907043.0|ramses3d||FAILED|cpu=1200,mem=7726620M,node=30|35|
+14907045|LCDM|large_cpu|FAILED|billing=3024,cpu=4320,mem=7726620M,node=30|41184|
+14907045.batch|batch||FAILED|cpu=144,mem=257554M,node=1|41184|
+14907045.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|41185|
+14907045.0|ramses3d||CANCELLED by 43801|cpu=1200,mem=7726620M,node=30|41180|
+14916963|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|6556|
+14916963.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|6557|
+14916963.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|6556|
+14916963.0|ramses3d||FAILED|cpu=1200,mem=7726620M,node=30|6561|
+14919312|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|810|
+14919312.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|811|
+14919312.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|810|
+14919312.0|ramses3d||FAILED|cpu=1800,mem=7726620M,node=30|816|
+14919737|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|1608|
+14919737.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|1609|
+14919737.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|1608|
+14919737.0|ramses3d||FAILED|cpu=1800,mem=7726620M,node=30|1614|
+14920353|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|220865|
+14920353.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|220866|
+14920353.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|220865|
+14920353.0|ramses3d||FAILED|cpu=1200,mem=7726620M,node=30|220871|
+14930321|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|7657|
+14930321.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|7658|
+14930321.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|7657|
+14930321.0|ramses3d||FAILED|cpu=600,mem=7726620M,node=30|7662|
+14964487|LCDM|large_cpu|CANCELLED by 43801||0|
+14970322|LCDM|large_cpu|TIMEOUT|billing=3024,cpu=4320,mem=7726620M,node=30|259224|
+14970322.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|259225|
+14970322.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|259224|
+14970322.0|ramses3d||FAILED|cpu=1200,mem=7726620M,node=30|259235|
+14986849|LCDM|large_cpu|TIMEOUT|billing=3024,cpu=4320,mem=7726620M,node=30|259209|
+14986849.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|259211|
+14986849.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|259210|
+14986849.0|ramses3d||FAILED|cpu=2400,mem=7726620M,node=30|259223|
+15020221|LCDM|large_cpu|CANCELLED by 43801||0|
+15020223|LCDM|large_cpu|CANCELLED by 43801||0|
+15020756|LCDM|large_cpu|CANCELLED by 43801||0|
+15020759|CPL0|large_cpu|CANCELLED by 43801||0|
+15020763|CPL1|large_cpu|CANCELLED by 43801||0|
+15020836|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|2520|
+15020836.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|2521|
+15020836.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|2520|
+15020836.0|ramses-lcdm-3d||FAILED|cpu=1200,mem=7726620M,node=30|2522|
+15020838|CPL0|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|252085|
+15020838.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|252086|
+15020838.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|252085|
+15020838.0|ramses-cpl0-3d||FAILED|cpu=1200,mem=7726620M,node=30|252089|
+15020842|CPL1|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|234289|
+15020842.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|234290|
+15020842.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|234289|
+15020842.0|ramses-cpl1-3d||FAILED|cpu=1200,mem=7726620M,node=30|234295|
+15034844|LCDM4|large_cpu|CANCELLED by 43801||0|
+15065870|LCDM|large_cpu|TIMEOUT|billing=3024,cpu=4320,mem=7726620M,node=30|86419|
+15065870.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|86420|
+15065870.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|86419|
+15065870.0|ramses-lcdm-3d||FAILED|cpu=1200,mem=7726620M,node=30|86429|
+15106326|LCDM|large_cpu|CANCELLED by 43801||0|
+15124476|LCDM|large_cpu|CANCELLED by 43801|billing=3024,cpu=4320,mem=7726620M,node=30|106303|
+15124476.batch|batch||CANCELLED|cpu=144,mem=257554M,node=1|106304|
+15124476.extern|extern||COMPLETED|billing=3024,cpu=4320,mem=7726620M,node=30|106303|
+15124476.0|ramses-lcdm-3d||FAILED|cpu=1200,mem=7726620M,node=30|106308|
+15124479|CPL0|large_cpu|RUNNING|billing=3024,cpu=4320,mem=7726620M,node=30|131039|
+15124479.batch|batch||RUNNING|cpu=144,mem=257554M,node=1|131039|
+15124479.extern|extern||RUNNING|billing=3024,cpu=4320,mem=7726620M,node=30|131039|
+15124479.0|ramses-cpl0-3d||RUNNING|cpu=2400,mem=7726620M,node=30|131039|
+15126900|LCDM|large_cpu|RUNNING|billing=3024,cpu=4320,mem=7726620M,node=30|25511|
+15126900.batch|batch||RUNNING|cpu=144,mem=257554M,node=1|25511|
+15126900.extern|extern||RUNNING|billing=3024,cpu=4320,mem=7726620M,node=30|25511|
+15126900.0|ramses-lcdm-3d||RUNNING|cpu=2400,mem=7726620M,node=30|25510|
+15126905|CPL1|large_cpu|RUNNING|billing=3024,cpu=4320,mem=7726620M,node=30|25450|
+15126905.batch|batch||RUNNING|cpu=144,mem=257554M,node=1|25450|
+15126905.extern|extern||RUNNING|billing=3024,cpu=4320,mem=7726620M,node=30|25450|
+15126905.0|ramses-cpl1-3d||RUNNING|cpu=2400,mem=7726620M,node=30|25450|
